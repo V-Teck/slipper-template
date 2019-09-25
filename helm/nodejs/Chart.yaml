@@ -1,0 +1,8 @@
+name: nodejs
+version: 0.1
+description: An example Node.js OpenShift application 
+keywords:
+- nodejs
+- phaser
+sources:
+- https://github.com/V-Teck/slipper-template
