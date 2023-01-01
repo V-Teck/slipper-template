@@ -8,13 +8,13 @@
     "datauri": "^2.0.0",
     "express": "^4.17.1",
     "jsdom": "^15.1.1",
-    "phaser": "^3.19.0",
+    "phaser": "^3.55.2",
     "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "mocha": "^6.2.0",
-    "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.9"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "scripts": {
     "test": "echo HZ :D",
